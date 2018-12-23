@@ -1,0 +1,9 @@
+dropbox
+tensorflow
+numpy
+scipy
+opencv-python
+pillow
+matplotlib
+h5py
+keras
