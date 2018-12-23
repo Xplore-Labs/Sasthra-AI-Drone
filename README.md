@@ -13,3 +13,4 @@ setp 4: Run the upload.py and sound.py file on each UAVs
 step 5: run download.py in the base station
 
 # for detailed solution design read the writeup.pdf
+hexacopter concept design https://drive.google.com/open?id=1r5Fg8AtU6I8ldfG8bopt1mgx1hZWfE8f
